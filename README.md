@@ -1,5 +1,5 @@
 
-## Title: React Game of Thrones Character Browser
+## React Game of Thrones Character Browser
 -----------
 
 
