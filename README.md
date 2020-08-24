@@ -13,7 +13,6 @@ For this assignment, you'll build a React app to browse through the characters i
 ### Getting Started
 1. Run create-react-app
 1. Next, `cd` into the directory.
-1. Run `npm install`.
 1. Open up `App.js` and get to work!
 1. Look at an example of the API data in the characters endpoint:
 
